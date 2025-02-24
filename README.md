@@ -12,6 +12,9 @@
 🎨 Designing sleek UIs & cool animations  
 🎬 Editing videos with precision & creativity  
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="500">
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinkingcircle&show_icons=true&theme=radical)  
 
 ✨ **Let's Create Something Cool!**  
