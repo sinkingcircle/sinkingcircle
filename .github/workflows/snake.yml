@@ -10,13 +10,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v2
         with:
           github_user_name: sinkingcircle
-          outputs: github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: github-contribution-grid-snake.svg
+      - name: Commit and push to output branch
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git checkout --orphan output
+          git rm -rf .
+          mv dist/github-contribution-grid-snake.svg .
+          git add github-contribution-grid-snake.svg
+          git commit -m "Generate snake animation"
+          git push -f origin output
