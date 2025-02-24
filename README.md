@@ -15,8 +15,8 @@
 
 
 
-🌍 **Check out my interactive 3D Earth!**  
-[Click here to explore!](https://earth.nullschool.net/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinkingcircle&layout=compact&theme=radical)
+
 
 
 
