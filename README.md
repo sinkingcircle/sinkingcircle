@@ -23,3 +23,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinkingcircle&show_icons=true&theme=radical)  
 
 ✨ **Let's Create Something Cool!**  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
