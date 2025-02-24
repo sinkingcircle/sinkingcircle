@@ -15,6 +15,10 @@
 
 
 
+<a href="https://earth.nullschool.net/" target="_blank">
+    <img src="https://i.imgur.com/6R9hpy6.gif" width="300px">
+</a>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinkingcircle&show_icons=true&theme=radical)  
 
