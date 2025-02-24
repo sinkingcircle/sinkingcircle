@@ -1,6 +1,7 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=0FFF95&width=800&height=70&lines=🚀+Creative+Developer;🎨+UI%2FUX+Designer;🎬+Video+Editing+Pro;🚀+Tech+Explorer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=FF5733,FACD3D,00FFA6&width=800&height=70&lines=🚀+Developer;🎨+Designer;🎬+Video+Editor)
+
 
 
 
