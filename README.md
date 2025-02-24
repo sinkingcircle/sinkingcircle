@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&vCenter=true&width=600&lines=Hi%2C+I'm+sinkingcircle+%F0%9F%91%8B;Passionate+about+Open-Source+%E2%9C%A8;GSoC+2025+Hopeful+%F0%9F%92%AA;Learning+React+%26+Java+%F0%9F%8E%93;Let's+build+something+awesome!)](https://git.io/typing-svg)
+![GitHub Snake Animation](https://github.com/sinkingcircle/sinkingcircle/blob/output/github-contribution-grid-snake.svg)
