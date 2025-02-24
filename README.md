@@ -15,6 +15,8 @@
 
 
 
+🌍 **Check out my interactive 3D Earth!**  
+[Click here to explore!](https://earth.nullschool.net/)
 
 
 
