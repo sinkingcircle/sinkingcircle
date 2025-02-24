@@ -15,9 +15,8 @@
 
 
 
-<a href="https://earth.nullschool.net/" target="_blank">
-    <img src="https://i.imgur.com/6R9hpy6.gif" width="300px">
-</a>
+![Spinning Earth](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinkingcircle&show_icons=true&theme=radical)  
