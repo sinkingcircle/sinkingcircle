@@ -8,19 +8,3 @@
 
 
 
-
-🎯 Building awesome projects in **React, JavaScript, Python**  
-🎨 Designing sleek UIs & cool animations  
-🎬 Editing videos with precision & creativity  
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinkingcircle&layout=compact&theme=radical)
-
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinkingcircle&show_icons=true&theme=radical)  
-
-✨ **Let's Create Something Cool!**  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
